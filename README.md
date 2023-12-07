@@ -26,10 +26,11 @@ In this project, we are working with 2 Datasets:
 
 ### Dependencies
 
-The project should work with the 'Tensorflow 2.7' kernel on HiPerGator. I have have used a custom kernel for running this project. The file ```environment.yml``` has the environment packaged if needed. 
+The project should work with the 'Tensorflow 2.7' kernel on HiPerGator. I have have used a custom kernel for running this project. 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+- Download models first
 - Best Model 1: https://uflorida-my.sharepoint.com/:u:/g/personal/sohaibuddinsyed_ufl_edu/EYUvOu1kWKVKj-dGPlLFIgsBdesrprzP5IxEEvA7mL2GMQ?e=58QVQx
 - Best Model 2: https://uflorida-my.sharepoint.com/:u:/g/personal/sohaibuddinsyed_ufl_edu/EZFNl5oT20dFh7Gnny2o3WEBZ15MhVLjLlzkr_pUPgdJiw?e=cTcDOP
 - training.ipynb: Notebook used for training
