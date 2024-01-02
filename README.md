@@ -26,7 +26,7 @@ In this project, we are working with 2 Datasets:
 
 ### Dependencies
 
-The project should work with the 'Tensorflow 2.7' kernel on HiPerGator. I have have used a custom kernel for running this project. 
+The project should work with the 'Tensorflow 2.7' kernel on HiPerGator. 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
